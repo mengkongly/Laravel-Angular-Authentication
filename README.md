@@ -15,5 +15,5 @@ https://jwt-auth.readthedocs.io/en/develop/
 For Ng-Snotify link:
 https://artemsky.github.io/ng-snotify/compodoc/index.html
 
-Referrence link:
+Reference link:
 https://www.udemy.com/angular-laravel-single-page-app-with-authentication-and-password-reset/learn/v4/content
